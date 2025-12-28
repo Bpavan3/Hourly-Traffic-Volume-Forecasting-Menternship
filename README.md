@@ -34,7 +34,7 @@ historical traffic data.
 ### Repository Contents
 - Jupyter Notebook(s)
 - Dataset(s)
-- Project report / presentation (if applicable)
+- Project report
 - Certificate of completion
 
 ### Certification
